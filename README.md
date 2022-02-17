@@ -1,4 +1,4 @@
-# AD hosts
+# FCM_no_pass_VPN
 ### 依然的爱/AiSauce
 *替换hosts文件绕过GFW*
 
